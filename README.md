@@ -1,3 +1,5 @@
+[![View Vehicle-Dynamics-Vertical on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/81943-vehicle-dynamics-vertical)
+
 # Vehicle Dynamics - Vertical: Open Source Simulation Package for MATLAB
 
 (Under construction)
