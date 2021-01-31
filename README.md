@@ -2,8 +2,6 @@
 
 # Vehicle Dynamics - Vertical: Open Source Simulation Package for MATLAB
 
-(Under construction)
-
 Vehicle Dynamics - Vertical is part of the [OpenVD Project](https://github.com/andresmendes/openvd).
 
 ## Documentation
